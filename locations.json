@@ -1,1 +1,7 @@
-
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {"name": "Assignments", "category": ["Assignments"], "region": "Region A", "place_item_category": ["Assignments"]},
+    {"name": "Victory", "category": ["Victory"], "region": "Region A", "victory": true}
+  ]
+}
