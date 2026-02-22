@@ -1,0 +1,11 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.options.schema.json",
+  "user": {
+    "assignments": {"display_name": "assignments", "type": "Range", "default": 5, "range_start": 1, "range_end": 999, "group": "Assignments", "description": ["Choose how many assignments you have"]},
+    "erasure_trap": {"display_name": "erasure trap", "type": "Toggle", "default": , "group": "Traps", "description": ["Erase whatever work you have done on the current problem"]},
+    "phone_trap": {"display_name": "five minute phone trap", "type": "Toggle", "default": , "group": "Traps", "description": ["Use your phone for non related work for 5 minutes"]},
+    "literature_trap": {"display_name": "literature trap", "type": "Toggle", "default": , "group": "Traps", "description": ["Read 5 to 20 line section from a selected piece of literature"]},
+    "google_search": {"display_name": "google search", "type": "Range", "default": 5, "range_start": 1, "range_end": 20, "group": "Internet", "description": ["Get one free google search for a question"]},
+    "starting_assignments": {"display_name": "starting assignments", "type": "Range", "default": 1, "range_start": 1, "range_end": 999, "group": "Assignments", "description": ["Choose how many assignments you start with"]}
+  }
+}
