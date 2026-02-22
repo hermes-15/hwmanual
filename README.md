@@ -1,0 +1,2 @@
+# hwmanual
+HW Archipelago Manual
