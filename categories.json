@@ -1,0 +1,9 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+  "Assignments": {"yaml_option": ["assignments"]},
+  "Literature Trap": {"yaml_option": ["literature_trap"]},
+  "Phone Trap": {"yaml_option": ["phone_trap"]},
+  "Erasure Trap": {"yaml_option": ["erasure_trap"]},
+  "Internet": {"yaml_option": ["google_search"]},
+  "Starting Assignments": {"yaml_option": ["starting_assignments"]}
+}
