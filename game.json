@@ -1,0 +1,10 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Homework",
+  "creator": "Hermes",
+  "filler_item_name": "HWFiller",
+  "death_link": false,
+  "starting_items": [
+    {"items": ["Assignments"], "random": 1, "yaml_option": ["starting_assignments"]}
+  ]
+}
