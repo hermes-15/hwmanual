@@ -1,0 +1,5 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Region A": {"starting": true"},
+  "Region B": {"connects_to": ["Region A"]}
+}
